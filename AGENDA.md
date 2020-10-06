@@ -2,7 +2,7 @@
 
 ## Day 1
 - [X] Demo "Asking for help"
-- [ ] Breakout Rooms
+- [X] Breakout Rooms
 - [ ] 5 min break
 - [ ] Demo the "Plan" Step
 - [ ] 5 min break
