@@ -11,8 +11,8 @@ print out the area of a circle to 3 decimal places in feet squared
 
 from math import pi
 
-radius = int(input('Enter the radius of a circle: '))
+radius = float(input('Enter the radius of a circle: '))
 
 area = pi * radius**2
 
-print(f'{area:.3f} ft\u00B2')
+print(f'The area with a radius of {radius:.2f} ft is {area:.3f} ft\u00B2')
